@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "treinamentos.minecraft.ceu.gg",
+    "ip": "pintucabiludo.minecraft.ceu.gg",
     "port": 22842,
     "version": "1.21.11",
     "try-creative": false
